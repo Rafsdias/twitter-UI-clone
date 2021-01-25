@@ -2,7 +2,7 @@
     Twitter UI clone
 </h1>
 
- Clone made with HTML and CSS only.
+ Clone made with HTML and CSS.
 
 ## :eyes: Preview
 
