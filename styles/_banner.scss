@@ -1,0 +1,14 @@
+div.banner {
+  overflow: hidden;
+  height: 380px;
+  width: 100%;
+  background: #3bb9e3;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  img {
+    width: 100%;
+  }
+}
